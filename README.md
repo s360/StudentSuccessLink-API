@@ -65,6 +65,7 @@ Create a file in `/src` named `.env`, with the following values:
       SRE_SESSION_TOKEN=
       SRE_SHARED_SECRET=
       SRE_URL=
+      REDIS_URL=
       XSRE_SESSION_TOKEN=get-these-values-from-hostedZone
       XSRE_SHARED_SECRET=get-these-values-from-hostedZone
       XSRE_URL=hostedZone-root-url //ie https://whatever.hostedzone.com/svcs/dev
