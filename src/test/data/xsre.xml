@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xSre refId="40bf01d1-7232-4afe-985c-104d3a280573"
+      xmlns:raw="raw"
+      xmlns:psesd="psesd"
+      xmlns:sif="http://www.sifassociation.org/datamodel/na/3.3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <name>
+        <familyName>Hessel</familyName>
+        <givenName>Nikita</givenName>
+    </name>
+    <localId>11108723</localId>
+    <demographics>
+        <races>
+            <race>
+                <race>BlackOrAfricanAmerican</race>
+            </race>
+        </races>
+        <hispanicLatinoEthnicity>false</hispanicLatinoEthnicity>
+        <sex>Female</sex>
+        <raw:source>
+            <raw:races>
+                <raw:race>African American or Black</raw:race>
+            </raw:races>
+            <raw:hispanicLatinoEthnicity>African American or Black</raw:hispanicLatinoEthnicity>
+            <raw:sex>F</raw:sex>
+        </raw:source>
+    </demographics>
+    <enrollment>
+        <leaRefId>a5f76dce-865a-4256-af86-c0d97a83b780</leaRefId>
+        <schoolRefId>339208ec-0d3b-417b-a50d-5a7ad83a0bda</schoolRefId>
+        <school refId="339208ec-0d3b-417b-a50d-5a7ad83a0bda">
+            <leaRefId>a5f76dce-865a-4256-af86-c0d97a83b780</leaRefId>
+            <localId>19</localId>
+            <schoolName>West Seattle High School</schoolName>
+        </school>
+        <schoolYear>2016</schoolYear>
+        <membershipType>Home</membershipType>
+        <entryDate>2015-09-17</entryDate>
+        <exitDate>2015-11-28</exitDate>
+        <gradeLevel>12</gradeLevel>
+        <projectedGraduationYear>2016</projectedGraduationYear>
+        <raw:source>
+            <raw:schoolYear>2015–16</raw:schoolYear>
+            <raw:entryDate>09/17/2015</raw:entryDate>
+            <raw:exitDate>11/28/2015</raw:exitDate>
+            <raw:gradeLevel>12th</raw:gradeLevel>
+            <raw:projectedGraduationYear>2016</raw:projectedGraduationYear>
+        </raw:source>
+    </enrollment>
+    <otherEnrollments>
+        <enrollment>
+            <leaRefId>2c1f8393-74d6-4760-aa6a-c2807450ada8</leaRefId>
+            <schoolRefId>65f88da2-190c-4347-bce6-b93870345617</schoolRefId>
+            <school refId="65f88da2-190c-4347-bce6-b93870345617">
+                <leaRefId>2c1f8393-74d6-4760-aa6a-c2807450ada8</leaRefId>
+                <localId>19</localId>
+                <schoolName>West Seattle High School</schoolName>
+            </school>
+            <schoolYear>2016</schoolYear>
+            <entryDate>2015-09-17</entryDate>
+            <exitDate>2015-11-29</exitDate>
+            <psesd:enrollmentStatus>01811</psesd:enrollmentStatus>
+            <raw:source>
+                <raw:schoolYear>2015–16</raw:schoolYear>
+                <raw:entryDate>09/17/2015</raw:entryDate>
+                <raw:exitDate>11/29/2015</raw:exitDate>
+                <raw:gradeLevel>?</raw:gradeLevel>
+                <raw:enrollmentStatusDescription>Currently Enrolled/Attending</raw:enrollmentStatusDescription>
+            </raw:source>
+        </enrollment>
+        <enrollment>
+            <leaRefId>62694411-12cf-4dde-b0eb-bcea34792bd5</leaRefId>
+            <schoolRefId>2b923441-51fb-457b-a00f-c606389b688b</schoolRefId>
+            <school refId="2b923441-51fb-457b-a00f-c606389b688b">
+                <leaRefId>62694411-12cf-4dde-b0eb-bcea34792bd5</leaRefId>
+                <localId>19</localId>
+                <schoolName>West Seattle High School</schoolName>
+            </school>
+            <schoolYear>2016</schoolYear>
+            <entryDate>2015-09-09</entryDate>
+            <exitDate>2015-09-16</exitDate>
+            <gradeLevel>12</gradeLevel>
+            <psesd:enrollmentStatus>01811</psesd:enrollmentStatus>
+            <raw:source>
+                <raw:schoolYear>2015–16</raw:schoolYear>
+                <raw:entryDate>09/09/2015</raw:entryDate>
+                <raw:exitDate>09/16/2015</raw:exitDate>
+                <raw:gradeLevel>12</raw:gradeLevel>
+                <raw:enrollmentStatusDescription>Currently Enrolled/Attending</raw:enrollmentStatusDescription>
+            </raw:source>
+        </enrollment>
+        <enrollment>
+            <leaRefId>32f584fa-9c33-4af7-85a8-3e0ab00c8f6a</leaRefId>
+            <schoolRefId>156e0f6c-0f1f-4ba4-ba82-c4a01696c2f8</schoolRefId>
+            <school refId="156e0f6c-0f1f-4ba4-ba82-c4a01696c2f8">
+                <leaRefId>32f584fa-9c33-4af7-85a8-3e0ab00c8f6a</leaRefId>
+                <localId>19</localId>
+                <schoolName>West Seattle High School</schoolName>
+            </school>
+            <schoolYear>2015</schoolYear>
+            <entryDate>2014-09-03</entryDate>
+            <exitDate>2015-07-11</exitDate>
+            <gradeLevel>11</gradeLevel>
+            <psesd:enrollmentStatus>01811</psesd:enrollmentStatus>
+            <raw:source>
+                <raw:schoolYear>2014–15</raw:schoolYear>
+                <raw:entryDate>09/03/2014</raw:entryDate>
+                <raw:exitDate>07/11/2015</raw:exitDate>
+                <raw:gradeLevel>11</raw:gradeLevel>
+                <raw:enrollmentStatusDescription>Currently Enrolled/Attending</raw:enrollmentStatusDescription>
+            </raw:source>
+        </enrollment>
+        <enrollment>
+            <leaRefId>81386a83-80a9-4e63-a330-4ac9660b15ff</leaRefId>
+            <schoolRefId>deb66a09-90f4-46b8-98ec-5b77b8ff3bf0</schoolRefId>
+            <school refId="deb66a09-90f4-46b8-98ec-5b77b8ff3bf0">
+                <leaRefId>81386a83-80a9-4e63-a330-4ac9660b15ff</leaRefId>
+                <localId>19</localId>
+                <schoolName>West Seattle High School</schoolName>
+            </school>
+            <schoolYear>2014</schoolYear>
+            <entryDate>2013-09-04</entryDate>
+            <exitDate>2014-07-10</exitDate>
+            <gradeLevel>10</gradeLevel>
+            <psesd:enrollmentStatus>01811</psesd:enrollmentStatus>
+            <raw:source>
+                <raw:schoolYear>2013–14</raw:schoolYear>
+                <raw:entryDate>09/04/2013</raw:entryDate>
+                <raw:exitDate>07/10/2014</raw:exitDate>
+                <raw:gradeLevel>10</raw:gradeLevel>
+                <raw:enrollmentStatusDescription>Currently Enrolled/Attending</raw:enrollmentStatusDescription>
+            </raw:source>
+        </enrollment>
+        <enrollment>
+            <leaRefId>4f160463-e116-4174-bc53-709ba50d654b</leaRefId>
+            <schoolRefId>b2227480-1dd9-4477-83cf-db9fbfe4158b</schoolRefId>
+            <school refId="b2227480-1dd9-4477-83cf-db9fbfe4158b">
+                <leaRefId>4f160463-e116-4174-bc53-709ba50d654b</leaRefId>
+                <localId>19</localId>
+                <schoolName>West Seattle High School</schoolName>
+            </school>
+            <schoolYear>2013</schoolYear>
+            <entryDate>2012-09-05</entryDate>
+            <exitDate>2013-07-13</exitDate>
+            <gradeLevel>09</gradeLevel>
+            <psesd:enrollmentStatus>01811</psesd:enrollmentStatus>
+            <raw:source>
+                <raw:schoolYear>2012–13</raw:schoolYear>
+                <raw:entryDate>09/05/2012</raw:entryDate>
+                <raw:exitDate>07/13/2013</raw:exitDate>
+                <raw:gradeLevel>9</raw:gradeLevel>
+                <raw:enrollmentStatusDescription>Currently Enrolled/Attending</raw:enrollmentStatusDescription>
+            </raw:source>
+        </enrollment>
+        <enrollment>
+            <leaRefId>a7af869d-89d1-4130-ae03-6fd5585130e1</leaRefId>
+            <schoolRefId>083552ea-1444-4b59-85e2-4058adabccfb</schoolRefId>
+            <school refId="083552ea-1444-4b59-85e2-4058adabccfb">
+                <leaRefId>a7af869d-89d1-4130-ae03-6fd5585130e1</leaRefId>
+                <localId>107</localId>
+                <schoolName>Madison Middle School</schoolName>
+            </school>
+            <schoolYear>2013</schoolYear>
+            <entryDate>2012-09-04</entryDate>
+            <exitDate>2012-09-04</exitDate>
+            <gradeLevel>09</gradeLevel>
+            <psesd:exitOrWithdrawalType>01907</psesd:exitOrWithdrawalType>
+            <raw:source>
+                <raw:schoolYear>2012–13</raw:schoolYear>
+                <raw:entryDate>09/04/2012</raw:entryDate>
+                <raw:exitDate>09/04/2012</raw:exitDate>
+                <raw:gradeLevel>9</raw:gradeLevel>
+                <raw:enrollmentStatusDescription>Confirmed Transfer to Another SPS School</raw:enrollmentStatusDescription>
+            </raw:source>
+        </enrollment>
+        <enrollment>
+            <leaRefId>b8a9f178-ad68-47fc-9b39-35d2d93b6a68</leaRefId>
+            <schoolRefId>cd8f75e4-5c67-4e76-9901-e95e79757c79</schoolRefId>
+            <school refId="cd8f75e4-5c67-4e76-9901-e95e79757c79">
+                <leaRefId>b8a9f178-ad68-47fc-9b39-35d2d93b6a68</leaRefId>
+                <localId>107</localId>
+                <schoolName>Madison Middle School</schoolName>
+            </school>
+            <schoolYear>2012</schoolYear>
+            <entryDate>2011-09-07</entryDate>
+            <exitDate>2012-07-13</exitDate>
+            <gradeLevel>08</gradeLevel>
+            <psesd:enrollmentStatus>01811</psesd:enrollmentStatus>
+            <raw:source>
+                <raw:schoolYear>2011–12</raw:schoolYear>
+                <raw:entryDate>09/07/2011</raw:entryDate>
+                <raw:exitDate>07/13/2012</raw:exitDate>
+                <raw:gradeLevel>8</raw:gradeLevel>
+                <raw:enrollmentStatusDescription>Currently Enrolled/Attending</raw:enrollmentStatusDescription>
+            </raw:source>
+        </enrollment>
+        <enrollment>
+            <leaRefId>5e841195-a852-4d65-b5f6-d113e094b882</leaRefId>
+            <schoolRefId>209ced71-9410-490c-a851-b272d3a73d7b</schoolRefId>
+            <school refId="209ced71-9410-490c-a851-b272d3a73d7b">
+                <leaRefId>5e841195-a852-4d65-b5f6-d113e094b882</leaRefId>
+                <localId>107</localId>
+                <schoolName>Madison Middle School</schoolName>
+            </school>
+            <schoolYear>2011</schoolYear>
+            <entryDate>2010-09-08</entryDate>
+            <exitDate>2011-07-19</exitDate>
+            <gradeLevel>07</gradeLevel>
+            <psesd:enrollmentStatus>01811</psesd:enrollmentStatus>
+            <raw:source>
+                <raw:schoolYear>2010–11</raw:schoolYear>
+                <raw:entryDate>09/08/2010</raw:entryDate>
+                <raw:exitDate>07/19/2011</raw:exitDate>
+                <raw:gradeLevel>7</raw:gradeLevel>
+                <raw:enrollmentStatusDescription>Currently Enrolled/Attending</raw:enrollmentStatusDescription>
+            </raw:source>
+        </enrollment>
+        <enrollment>
+            <leaRefId>7eaf4c4a-ff32-413c-86f6-85f7995e11ab</leaRefId>
+            <schoolRefId>846f8864-2780-4460-a920-481258b49559</schoolRefId>
+            <school refId="846f8864-2780-4460-a920-481258b49559">
+                <leaRefId>7eaf4c4a-ff32-413c-86f6-85f7995e11ab</leaRefId>
+                <localId>107</localId>
+                <schoolName>Madison Middle School</schoolName>
+            </school>
+            <schoolYear>2010</schoolYear>
+            <entryDate>2009-09-09</entryDate>
+            <exitDate>2010-08-01</exitDate>
+            <gradeLevel>07</gradeLevel>
+            <psesd:enrollmentStatus>01811</psesd:enrollmentStatus>
+            <raw:source>
+                <raw:schoolYear>2009–10</raw:schoolYear>
+                <raw:entryDate>09/09/2009</raw:entryDate>
+                <raw:exitDate>08/01/2010</raw:exitDate>
+                <raw:gradeLevel>7</raw:gradeLevel>
+                <raw:enrollmentStatusDescription>Currently Enrolled/Attending</raw:enrollmentStatusDescription>
+            </raw:source>
+        </enrollment>
+        <enrollment>
+            <leaRefId>705e279d-d844-4659-984e-260074943f7d</leaRefId>
+            <schoolRefId>ae4c5669-b05e-4d4b-a30c-46a5342c1322</schoolRefId>
+            <school refId="ae4c5669-b05e-4d4b-a30c-46a5342c1322">
+                <leaRefId>705e279d-d844-4659-984e-260074943f7d</leaRefId>
+                <localId>202</localId>
+                <schoolName>Alki Elementary</schoolName>
+            </school>
+            <schoolYear>2009</schoolYear>
+            <entryDate>2009-06-20</entryDate>
+            <exitDate>2009-08-03</exitDate>
+            <gradeLevel>06</gradeLevel>
+            <psesd:exitOrWithdrawalType>01907</psesd:exitOrWithdrawalType>
+            <raw:source>
+                <raw:schoolYear>2008–09</raw:schoolYear>
+                <raw:entryDate>06/20/2009</raw:entryDate>
+                <raw:exitDate>08/03/2009</raw:exitDate>
+                <raw:gradeLevel>6</raw:gradeLevel>
+                <raw:enrollmentStatusDescription>Confirmed Transfer to Another SPS School</raw:enrollmentStatusDescription>
+            </raw:source>
+        </enrollment>
+        <enrollment>
+            <leaRefId>6b9f6e41-976f-407d-a13f-8c6ebc5e1ad0</leaRefId>
+            <schoolRefId>28475a74-fcc5-48e5-aac6-a6b7ac061074</schoolRefId>
+            <school refId="28475a74-fcc5-48e5-aac6-a6b7ac061074">
+                <leaRefId>6b9f6e41-976f-407d-a13f-8c6ebc5e1ad0</leaRefId>
+                <localId>202</localId>
+                <schoolName>Alki Elementary</schoolName>
+            </school>
+            <schoolYear>2009</schoolYear>
+            <entryDate>2008-09-03</entryDate>
+            <exitDate>2009-06-19</exitDate>
+            <gradeLevel>05</gradeLevel>
+            <psesd:enrollmentStatus>01811</psesd:enrollmentStatus>
+            <raw:source>
+                <raw:schoolYear>2008–09</raw:schoolYear>
+                <raw:entryDate>09/03/2008</raw:entryDate>
+                <raw:exitDate>06/19/2009</raw:exitDate>
+                <raw:gradeLevel>5</raw:gradeLevel>
+                <raw:enrollmentStatusDescription>Currently Enrolled/Attending</raw:enrollmentStatusDescription>
+            </raw:source>
+        </enrollment>
+        <enrollment>
+            <leaRefId>b328b0b6-d5c3-4487-b121-8092324bdfd6</leaRefId>
+            <schoolRefId>894a3af0-4d35-4af9-9145-44bac40576b8</schoolRefId>
+            <school refId="894a3af0-4d35-4af9-9145-44bac40576b8">
+                <leaRefId>b328b0b6-d5c3-4487-b121-8092324bdfd6</leaRefId>
+                <localId>202</localId>
+                <schoolName>Alki Elementary</schoolName>
+            </school>
+            <schoolYear>2008</schoolYear>
+            <entryDate>2007-09-05</entryDate>
+            <exitDate>2008-08-04</exitDate>
+            <gradeLevel>05</gradeLevel>
+            <psesd:enrollmentStatus>01811</psesd:enrollmentStatus>
+            <raw:source>
+                <raw:schoolYear>2007–08</raw:schoolYear>
+                <raw:entryDate>09/05/2007</raw:entryDate>
+                <raw:exitDate>08/04/2008</raw:exitDate>
+                <raw:gradeLevel>5</raw:gradeLevel>
+                <raw:enrollmentStatusDescription>Currently Enrolled/Attending</raw:enrollmentStatusDescription>
+            </raw:source>
+        </enrollment>
+        <enrollment>
+            <leaRefId>cbcdcefb-9c16-4bfb-ac0d-033a56ca5630</leaRefId>
+            <schoolRefId>83fe49da-5873-4050-b4e3-1927060a549d</schoolRefId>
+            <school refId="83fe49da-5873-4050-b4e3-1927060a549d">
+                <leaRefId>cbcdcefb-9c16-4bfb-ac0d-033a56ca5630</leaRefId>
+                <localId>202</localId>
+                <schoolName>Alki Elementary</schoolName>
+            </school>
+            <schoolYear>2007</schoolYear>
+            <entryDate>2006-09-06</entryDate>
+            <exitDate>2007-08-06</exitDate>
+            <gradeLevel>04</gradeLevel>
+            <psesd:enrollmentStatus>01811</psesd:enrollmentStatus>
+            <raw:source>
+                <raw:schoolYear>2006–07</raw:schoolYear>
+                <raw:entryDate>09/06/2006</raw:entryDate>
+                <raw:exitDate>08/06/2007</raw:exitDate>
+                <raw:gradeLevel>4</raw:gradeLevel>
+                <raw:enrollmentStatusDescription>Currently Enrolled/Attending</raw:enrollmentStatusDescription>
+            </raw:source>
+        </enrollment>
+        <enrollment>
+            <leaRefId>e0a92e29-1014-45a9-b4cd-46a22c12f3ca</leaRefId>
+            <schoolRefId>ca632d0a-c5fd-41a7-ba16-b84db13159e9</schoolRefId>
+            <school refId="ca632d0a-c5fd-41a7-ba16-b84db13159e9">
+                <leaRefId>e0a92e29-1014-45a9-b4cd-46a22c12f3ca</leaRefId>
+                <localId>202</localId>
+                <schoolName>Alki Elementary</schoolName>
+            </school>
+            <schoolYear>2006</schoolYear>
+            <entryDate>2005-09-07</entryDate>
+            <exitDate>2006-08-07</exitDate>
+            <gradeLevel>03</gradeLevel>
+            <psesd:enrollmentStatus>01811</psesd:enrollmentStatus>
+            <raw:source>
+                <raw:schoolYear>2005–06</raw:schoolYear>
+                <raw:entryDate>09/07/2005</raw:entryDate>
+                <raw:exitDate>08/07/2006</raw:exitDate>
+                <raw:gradeLevel>3</raw:gradeLevel>
+                <raw:enrollmentStatusDescription>Currently Enrolled/Attending</raw:enrollmentStatusDescription>
+            </raw:source>
+        </enrollment>
+        <enrollment>
+            <leaRefId>5f79c848-83f6-445c-b363-034cd5901daf</leaRefId>
+            <schoolRefId>c6eebd08-d6a0-48d9-ac3e-4f8eaf68be37</schoolRefId>
+            <school refId="c6eebd08-d6a0-48d9-ac3e-4f8eaf68be37">
+                <leaRefId>5f79c848-83f6-445c-b363-034cd5901daf</leaRefId>
+                <localId>202</localId>
+                <schoolName>Alki Elementary</schoolName>
+            </school>
+            <schoolYear>2005</schoolYear>
+            <entryDate>2004-09-08</entryDate>
+            <exitDate>2005-08-08</exitDate>
+            <gradeLevel>02</gradeLevel>
+            <psesd:enrollmentStatus>01811</psesd:enrollmentStatus>
+            <raw:source>
+                <raw:schoolYear>2004–05</raw:schoolYear>
+                <raw:entryDate>09/08/2004</raw:entryDate>
+                <raw:exitDate>08/08/2005</raw:exitDate>
+                <raw:gradeLevel>2</raw:gradeLevel>
+                <raw:enrollmentStatusDescription>Currently Enrolled/Attending</raw:enrollmentStatusDescription>
+            </raw:source>
+        </enrollment>
+        <enrollment>
+            <leaRefId>8ce044e7-6c6c-4e29-9285-3a304017e20e</leaRefId>
+            <schoolRefId>ac154f84-7919-413d-ba04-1c2e5d227087</schoolRefId>
+            <school refId="ac154f84-7919-413d-ba04-1c2e5d227087">
+                <leaRefId>8ce044e7-6c6c-4e29-9285-3a304017e20e</leaRefId>
+                <localId>202</localId>
+                <schoolName>Alki Elementary</schoolName>
+            </school>
+            <schoolYear>2004</schoolYear>
+            <entryDate>2003-09-03</entryDate>
+            <exitDate>2004-08-09</exitDate>
+            <gradeLevel>01</gradeLevel>
+            <psesd:enrollmentStatus>01811</psesd:enrollmentStatus>
+            <raw:source>
+                <raw:schoolYear>2003–04</raw:schoolYear>
+                <raw:entryDate>09/03/2003</raw:entryDate>
+                <raw:exitDate>08/09/2004</raw:exitDate>
+                <raw:gradeLevel>1</raw:gradeLevel>
+                <raw:enrollmentStatusDescription>Currently Enrolled/Attending</raw:enrollmentStatusDescription>
+            </raw:source>
+        </enrollment>
+        <enrollment>
+            <leaRefId>97a6fdcc-268b-47c8-8e2f-56ed8eae0f0c</leaRefId>
+            <schoolRefId>afcb1ac1-b5cf-4c93-b9b4-0a2f0946a184</schoolRefId>
+            <school refId="afcb1ac1-b5cf-4c93-b9b4-0a2f0946a184">
+                <leaRefId>97a6fdcc-268b-47c8-8e2f-56ed8eae0f0c</leaRefId>
+                <localId>236</localId>
+                <schoolName>West Seattle Elementary</schoolName>
+            </school>
+            <schoolYear>2003</schoolYear>
+            <entryDate>2003-06-18</entryDate>
+            <exitDate>2003-08-11</exitDate>
+            <gradeLevel>PS</gradeLevel>
+            <psesd:exitOrWithdrawalType>01907</psesd:exitOrWithdrawalType>
+            <raw:source>
+                <raw:schoolYear>2002–03</raw:schoolYear>
+                <raw:entryDate>06/18/2003</raw:entryDate>
+                <raw:exitDate>08/11/2003</raw:exitDate>
+                <raw:gradeLevel>PS</raw:gradeLevel>
+                <raw:enrollmentStatusDescription>Confirmed Transfer to Another SPS School</raw:enrollmentStatusDescription>
+            </raw:source>
+        </enrollment>
+        <enrollment>
+            <leaRefId>39cbbaba-773f-4b17-9039-2685a443a18c</leaRefId>
+            <schoolRefId>454ec68f-0ef7-4ac6-bfe1-6182310f9fbc</schoolRefId>
+            <school refId="454ec68f-0ef7-4ac6-bfe1-6182310f9fbc">
+                <leaRefId>39cbbaba-773f-4b17-9039-2685a443a18c</leaRefId>
+                <localId>236</localId>
+                <schoolName>West Seattle Elementary</schoolName>
+            </school>
+            <schoolYear>2003</schoolYear>
+            <entryDate>2002-09-16</entryDate>
+            <exitDate>2003-06-17</exitDate>
+            <gradeLevel>PS</gradeLevel>
+            <psesd:enrollmentStatus>01811</psesd:enrollmentStatus>
+            <raw:source>
+                <raw:schoolYear>2002–03</raw:schoolYear>
+                <raw:entryDate>09/16/2002</raw:entryDate>
+                <raw:exitDate>06/17/2003</raw:exitDate>
+                <raw:gradeLevel>PS</raw:gradeLevel>
+                <raw:enrollmentStatusDescription>Currently Enrolled/Attending</raw:enrollmentStatusDescription>
+            </raw:source>
+        </enrollment>
+    </otherEnrollments>
+    <languages>
+        <language>
+            <type>Dominant</type>
+            <code>vie</code>
+        </language>
+        <language>
+            <type>Home</type>
+            <code>vie</code>
+        </language>
+    </languages>
+    <reportDate>2016-02-01</reportDate>
+    <programs>
+        <specialEducation>
+            <schoolYear>2016</schoolYear>
+            <services>
+                <service>
+                    <ideaIndicator>No</ideaIndicator>
+                </service>
+            </services>
+        </specialEducation>
+        <lep>
+            <lepStatus>No</lepStatus>
+            <title3LepParticipationStatus>No</title3LepParticipationStatus>
+            <raw:source>
+                <raw:lepStatus>N</raw:lepStatus>
+                <raw:title3LepParticipationStatus>N</raw:title3LepParticipationStatus>
+            </raw:source>
+        </lep>
+        <giftedTalented>
+            <enrollmentStatus>No</enrollmentStatus>
+            <raw:source>
+                <raw:eligibilityStatus>N</raw:eligibilityStatus>
+                <raw:enrollmentStatus>N</raw:enrollmentStatus>
+            </raw:source>
+        </giftedTalented>
+    </programs>
+</xSre>

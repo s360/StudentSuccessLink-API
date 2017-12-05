@@ -1,0 +1,32 @@
+machine:
+  node:
+    version: 0.10.45
+
+dependencies:
+  override:
+    - cd ./src && npm install
+
+ 
+test:
+  override:
+    - cd ./src && npm update && npm test
+
+deployment:
+  development:
+    branch: development
+    commands:
+      - git remote add heroku git@heroku.com:srx-services-ssl-dev.git
+      - "[[ ! -s \"$(git rev-parse --git-dir)/shallow\" ]] || git fetch --unshallow"
+      - git subtree push --prefix src heroku master
+  test:
+    branch: test
+    commands:
+      - git remote add heroku git@heroku.com:srx-services-ssl-test.git
+      - "[[ ! -s \"$(git rev-parse --git-dir)/shallow\" ]] || git fetch --unshallow"
+      - git subtree push --prefix src heroku master
+  production:
+    branch: production
+    commands:
+      - git remote add heroku git@heroku.com:srx-services-ssl.git
+      - "[[ ! -s \"$(git rev-parse --git-dir)/shallow\" ]] || git fetch --unshallow"
+      - git subtree push --prefix src heroku master
